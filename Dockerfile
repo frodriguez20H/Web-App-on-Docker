@@ -1,4 +1,4 @@
-FROM alpine:lasted
+FROM alpine:latest
 
 # Update
 RUN apk add --update python py-pip
